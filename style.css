@@ -421,7 +421,7 @@ body[class*=impress-on-action] #actions {
   opacity: 1;
 }
 #actions {
-  width: 1500px;
+  width: 1300px;
   height: 500px;
 }
 #actions .circle {
@@ -435,7 +435,7 @@ body[class*=impress-on-action] #actions {
   text-align: center;
 }
 .actions {
-  width: 1500px;
+  width: 1300px;
   height: 500px;
   padding-left: 15rem;
 }

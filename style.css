@@ -399,7 +399,7 @@ body.impress-mouse-timeout {
     height: 160px;
     line-height: 160px;
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
 }
 .categories.active .circle {
     background-color: #ee3f5b;
@@ -469,10 +469,18 @@ body[class*=impress-on-action] #actions {
 #action-interruption .container {
   padding-top: 20rem;
 }
+#action-interruption p {
+    line-height: 1.5rem;
+
+}
 #action-ux .container {
   padding-top: 30rem;
 }
+
 .impress-on-final-overview .step {
     opacity: 1;
     cursor: pointer;
+}
+.decoration{
+text-decoration : underline;
 }
